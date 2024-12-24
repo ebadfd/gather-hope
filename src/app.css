@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+.dosis {
+	font-family: 'Dosis', serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
+
+.overpass {
+	font-family: 'Overpass', serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
